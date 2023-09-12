@@ -1,9 +1,9 @@
 button{
-    display: flex;
+   
     align-items: center;
     justify-content: center;
     width: 20rem;
-    height: 8rem;
+    height: 5rem;
     font-family: sans-serif;
     font-weight: bold;
     color :black;
@@ -16,13 +16,14 @@ button{
 
 button:hover{
     background-color: #00471b;
+    color: white;
 
 }
 
 .boton-clic{
-    background-color: #002ead;
+    background-color: orange;
 }
 
 .boton-reiniciar{
-    background-color: #5a01a7;
+    background-color: red;
 }
